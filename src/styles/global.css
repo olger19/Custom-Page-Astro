@@ -26,3 +26,15 @@
     border-color: var(--color-gray-200, currentColor);
   }
 }
+
+/* Global CSS Variables */
+:root {
+  --color-primary: #F57C00;
+  --color-primary-light: #FFA726;
+  --color-black: #121212;
+  --color-gray-light: #F5F5F5;
+  --color-gray: #9E9E9E;
+  --color-gray-dark: #616161;
+  --color-white: #FFFFFF;
+}
+
